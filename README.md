@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **abhhirram2003@gmail.com**
 
-- 📄 Resume [https://drive.google.com/file/d/1Qvb-O4-0CpvzRn570rlJrwNi-4oUTFLU/view?usp=drive_link](https://drive.google.com/file/d/1Qvb-O4-0CpvzRn570rlJrwNi-4oUTFLU/view?usp=drive_link)
+- 📄 Resume https://drive.google.com/file/d/1E21AocvT23gjoxobrdtP_yvJQ542vIrM/view
 
 <h3 align="left">Education:</h3>
 Vellore Institute Of Technology, Vellore(2021-2025)
