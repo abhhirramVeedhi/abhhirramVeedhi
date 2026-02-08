@@ -23,7 +23,7 @@
 Vellore Institute Of Technology, Vellore(2021-2025)
 <ul style="list-style-type:disc;">
   <li>Bachelor Of Technology - Information Technology</li>
-  <li>CGPA: 8.44</li>
+  <li>CGPA: 8.48</li>
 </ul>  
 
 
